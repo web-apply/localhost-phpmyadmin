@@ -9,7 +9,7 @@ To create a new article, you would typically use a Content Management System (CM
 If you want to create a custom article management system, you would need to use a programming language such as PHP, along with a database management system such as MySQL or MariaDB, to create a custom solution. This would require some programming skills and knowledge of databases and web development.
 
 
-
+https://github.com/web-apply/localhost-phpmyadmin/raw/main/localhost-phpmyadmin.pdf
 
 
 
