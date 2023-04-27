@@ -2,7 +2,7 @@
 
 "localhost/phpmyadmin" is a web-based application used for managing MySQL and MariaDB databases. It provides an easy-to-use interface for managing databases, tables, and other database-related tasks.
 
-To access "localhost/phpmyadmin", you need to have a local server installed on your computer such as XAMPP, WAMP, or MAMP.
+To access localhost/phpmyadmin (https://raw.githubusercontent.com/web-apply/localhost-phpmyadmin/main/localhost-phpmyadmin.pdf) , you need to have a local server installed on your computer such as XAMPP, WAMP, or MAMP.
 
 To create a new article, you would typically use a Content Management System (CMS) such as WordPress, Joomla, or Drupal. These CMSs have built-in editors and interfaces for creating new articles and managing content.
 
